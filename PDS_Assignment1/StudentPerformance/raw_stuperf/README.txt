@@ -1,13 +1,11 @@
-Student Performance Dataset
+This dataset captures details related to student performance and scores across various sections, along with information about the different categories they belong to.
+It includes 7 attributes:
 
-This dataset contains the records related to students  performance and scores under different sections along with the different categories they belong. This dataset contains 7 features.
-
-Gender - represented the gender of students as Female/male.
-Race/ethnicity - represents the groups (A, B, C, D) to which each individual student belongs.
-parental level of education - represents the education qualifications of student s parent.
-lunch - representing the type of lunch provided to students (standard/free/reduced)
-test preparation course - represents whether the students have taken any course for test or not.
-math score - represents score obtained in math in numerical value.
-reading score - represents score obtained in reading subject in numerical values.
-writing score - represents score obtained in writing subject in numerical values.
-
+Gender: Indicates whether the student is male or female.
+Race/ethnicity: Categorizes students into groups (A, B, C, D).
+Parental level of education: Describes the education qualifications of the student's parents.
+Lunch: Specifies the type of lunch the students receive (standard, free, or reduced).
+Test preparation course: Indicates whether the student has completed a course to prepare for the test.
+Math score: Represents the numerical score obtained in mathematics.
+Reading score: Denotes the numerical score achieved in reading.
+Writing score: Refers to the numerical score earned in writing
